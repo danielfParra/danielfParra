@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielfParra
 - 👀 I’m interested in experimental economics
 - 🌱 I’m currently learning python, javascript and css
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on oTree coding.
 - 📫 How to reach me: daniel.parra@wzb.eu
 
 <!---
