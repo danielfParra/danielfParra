@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python, javascript and css
 - 💞️ I’m looking to collaborate on oTree coding.
 - 📫 How to reach me: daniel.parra@wzb.eu
+- www.danielparra.me
 
 <!---
 danielfParra/danielfParra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
